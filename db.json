@@ -1,0 +1,49 @@
+{
+  "excursii": [
+    {
+      "id": "755c",
+      "destinatie": "Paris",
+      "data": "2025-06-15",
+      "ghid": "Andrei Radu",
+      "participant": "Maria",
+      "oras": "Brasov",
+      "varsta": 23
+    },
+    {
+      "destinatie": "Berlin",
+      "data": "2025-06-10",
+      "ghid": "Alina Pop",
+      "participant": "Ana",
+      "oras": "Oradea",
+      "varsta": 20,
+      "id": "e9d2"
+    },
+    {
+      "destinatie": "Amsterdam",
+      "data": "2025-07-20",
+      "ghid": "Laura Stan",
+      "participant": "Vlad",
+      "oras": "Timisoara",
+      "varsta": 25,
+      "id": "bb38"
+    },
+    {
+      "destinatie": "Barcelona",
+      "data": "2025-08-05",
+      "ghid": "Alexandra Muresan",
+      "participant": "Irina",
+      "oras": "Iasi",
+      "varsta": 29,
+      "id": "5712"
+    },
+    {
+      "destinatie": "Lisabona",
+      "data": "2025-09-12",
+      "ghid": "Alexandra Muresan",
+      "participant": "Mara",
+      "oras": "Pitesti",
+      "varsta": 22,
+      "id": "a40b"
+    }
+  ]
+}

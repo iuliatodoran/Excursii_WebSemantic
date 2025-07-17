@@ -1,0 +1,19 @@
+{
+  "excursii": [
+    {
+      "id": "755c",
+      "destinatie": "Paris",
+      "data": "2025-06-15",
+      "ghid": "Andrei Radu"
+    }
+  ],
+  "participanti": [
+    {
+      "id": "1",
+      "nume": "Maria",
+      "oras": "Brasov",
+      "varsta": 23,
+      "excursieId": "755c"
+    }
+  ]
+}
