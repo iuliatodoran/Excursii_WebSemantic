@@ -60,11 +60,3 @@ proxy-server -> node index.js
 json-server --watch db.json --port 4000
 json-graphql-server graphql-data.json --port 3000
 npm start
- 
-## COMPONENTE LIPSA: 
-- JSON-LD 
-- OpenAI
- 
- 
-## BONUS:
-- React + Express
